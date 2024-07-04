@@ -45,7 +45,7 @@ tasks.getByName<Test>("test") {
 dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.7.10")
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.3")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.1")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutineVersion")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:$coroutineVersion")
     implementation("com.squareup.okhttp3:okhttp:$okHttpVersion")
