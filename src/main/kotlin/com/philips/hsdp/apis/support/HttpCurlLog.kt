@@ -3,9 +3,7 @@ package com.philips.hsdp.apis.support
 import com.philips.hsdp.apis.support.logging.CurlGenerator
 import com.philips.hsdp.apis.support.logging.CurlLogger
 import com.philips.hsdp.apis.support.logging.PlatformLogger
-import sun.rmi.transport.Endpoint
 import java.io.BufferedReader
-import java.io.FileReader
 import java.io.InputStreamReader
 import java.net.HttpURLConnection
 import java.net.URL
